@@ -1,0 +1,15 @@
+#include<iostream>
+using namespace std;
+int main ()
+{
+    int a,b,tmp,razl1,razl2;
+    cin>>a>>b;
+    razl1 = a - b;
+    cout<<"Vrednosta na broj1 i broj2 pred zamena na broevite e:"<<' '<<a<<","<<b<<" a razlikata: "<<razl1<<endl;
+    tmp = a;
+    a = b;
+    b = tmp;
+    razl2 = a - b;
+    cout<<"Vrednosta na broj1 i broj2 posle zamena na broevite e:"<<' '<<a<<","<<b<<" a razlikata: "<<razl2<<endl;
+    return 0;
+}
