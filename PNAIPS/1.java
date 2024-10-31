@@ -4,15 +4,15 @@
 Влез: Во првиот ред од влезот е даден бројот на елементи во листата - N,
 па во следните N редови се дадени самите елементи (String-ови) од листата. На крај, во последниот ред е даден бројот L. 
 Излез: На излез треба да се испечати листата пред и после промената. */
-Input	      Result
-3            Sky->Blue->Cloud  
-Sky          Sky->Blue->Cloud  
+Input	                Result
+3                  Sky->Blue->Cloud  
+Sky                Sky->Blue->Cloud  
 Blue
 Cloud
 5
-Input                Result
-4           Apple->Banana->Pear->Watermelon     
-Apple       Apple->Pear->Watermelon->Banana
+Input                    Result
+4               Apple->Banana->Pear->Watermelon     
+Apple           Apple->Pear->Watermelon->Banana
 Banana
 Pear
 Watermelon
